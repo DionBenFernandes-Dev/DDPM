@@ -12,6 +12,7 @@ __pycache__
 # Ignore dataset files
 *.csv
 *.json
+*.7z
 
 # Ignore checkpoints
 *.pth
